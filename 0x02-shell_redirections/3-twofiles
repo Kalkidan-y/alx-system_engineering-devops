@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 #! /bin/bash
 cat /etc/passwd /etc/hosts
+=======
+#! /bin/bash
+cat /etc/passwd /etc/hosts
+>>>>>>> 8cd013fd872d8e00be746978729e404a6c9434a1
